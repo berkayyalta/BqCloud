@@ -15,8 +15,6 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-//file transfer methods comment lines
-
 class Client
 {	
 	//Address
