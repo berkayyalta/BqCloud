@@ -1,5 +1,5 @@
 # BqCloud by Berkay
-A simple cloud program.
+A simple cloud program
 
 This is the server side of the program.
 
